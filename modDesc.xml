@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+    <author>DJM</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>No Sleep</en>
+    </title>
+    <description>
+        <en><![CDATA[No sleeping allowed!]]></en>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="src/survival.lua" />
+    </extraSourceFiles>
+</modDesc>

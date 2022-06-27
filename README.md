@@ -1,2 +1,1 @@
-# FS22_No_Sleep
- 
+- Sleeping in game disabled
